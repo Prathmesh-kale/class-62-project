@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+}
+#imgdoraemon0{
+    width: 1100px;
+    }
+#imgdoraemon{
+    height: 300px;
+    width: 300px;
+}
+#imgnobita{
+    height: 300px;
+    width: 300px;
+}
+#imgshizuka{
+     height: 300px;
+    width: 300px;
+}
+#imggian{
+     height: 300px;
+    width: 300px;
+}
+#imgsuneo{
+     height: 300px;
+    width: 300px;
+}
+#p2{
+    color:firebrick;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-style: oblique;
+    word-spacing: 20px;
+}
+img{
+    height: 300px;
+    widows: 300px;
+}
+#mycarousel {
+    background-color: rosybrown;
+}
+
+#mycarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+}
+.container{
+    background-color: coral;
+}
+#body1{
+    background-color:aqua;
+    text-align: center;
+}
+#briefparagraph{
+    color:firebrick;
+    font-size: 45px;
+    font-variant: small-caps;
+}
+#slidingg{
+     color:firebrick;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-style: oblique;
+    word-spacing: 20px;
+}
+#briefdoraemon{
+    color: darkgreen;
+    font-size: 35px;
+}
+#briefnobita{
+    color:crimson;
+    font-size: 35px;
+}
+#briefshizuka{
+    color:chocolate;
+    font-size: 35px;
+}
+#briefgian{
+    color: darkblue;
+    font-size: 35px;
+}
+#briefsuneo{
+    color: darkgoldenrod;
+    font-size: 35px;
+}
